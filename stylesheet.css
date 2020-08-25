@@ -46,8 +46,8 @@ h2,h3,h4,h5,h6 {
   align-items: center;
 
   background: #020C18;
-  background-image: url("https://joepacal.github.io/kistorm-cviz/assets/img-digitalAfrica.png");
-  background: url("https://joepacal.github.io/kistorm-cviz/assets/img-digitalAfrica.png") no-repeat 90% 50%, linear-gradient(257.6deg, #020C18 7.79%, #061D35 24.39%, #375C83 53.07%, #4779AE 80.22%);
+  background-image: url("https://joepacal.github.io/kistorm-cancerviz/assets/img-digitalAfrica.png");
+  background: url("https://joepacal.github.io/kistorm-cancerviz/assets/img-digitalAfrica.png") no-repeat 90% 50%, linear-gradient(257.6deg, #020C18 7.79%, #061D35 24.39%, #375C83 53.07%, #4779AE 80.22%);
   background-size: 212px, cover;
 
   border-radius: 0.5rem;
