@@ -28,11 +28,11 @@ h2,h3,h4,h5,h6 {
 .cviz.intro {
   
   background-color: #DAE3ED;
-  background-image: url("https://joepacal.github.io/kistorm-cancerviz/assets/bg-bannerCell.png") no-repeat 90% 50%,;
+  background: url("https://joepacal.github.io/kistorm-cancerviz/assets/bg-bannerCell.png") no-repeat 90% 50%,;
+  background-size: 692px, cover;
   border-top: solid 1px #EB5C98;
 
-  border-radius: 0.5rem;
-  padding: 2rem 1rem 1rem 1rem;
+  padding: 1rem 1rem 2rem 1rem;
   
 }
 
@@ -45,13 +45,7 @@ h2,h3,h4,h5,h6 {
   justify-content: space-between;
   align-items: center;
 
-  background: #020C18;
   background-image: url("https://joepacal.github.io/kistorm-cancerviz/assets/img-digitalAfrica.png");
-  background: url("https://joepacal.github.io/kistorm-cancerviz/assets/img-digitalAfrica.png") no-repeat 90% 50%, linear-gradient(257.6deg, #020C18 7.79%, #061D35 24.39%, #375C83 53.07%, #4779AE 80.22%);
-  background-size: 212px, cover;
-
-  border-radius: 0.5rem;
-  border-bottom: solid 20px #2E5586;
 
   
   margin: 0rem 0rem 1rem 0rem;
