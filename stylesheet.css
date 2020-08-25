@@ -45,7 +45,8 @@ h2,h3,h4,h5,h6 {
   justify-content: space-between;
   align-items: center;
 
-  background-image: url("https://joepacal.github.io/kistorm-cancerviz/assets/img-digitalAfrica.png");
+  background-image: url("https://joepacal.github.io/kistorm-cancerviz/assets/bg-bannerCell.png");
+  background-size: 384px, cover;
 
   
   margin: 0rem 0rem 1rem 0rem;
