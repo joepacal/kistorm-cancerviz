@@ -1,9 +1,9 @@
 .cviz {padding-top:0em;}
-.cviz .center{margin:auto; width:80%; font-family:Tahoma; font-size:2em} 
+.cviz .center{margin:auto; width:80%; font-size:2em} 
 .cviz .bullets {padding-bottom:1.2em;}
 .cviz .title{padding-top:0em;margin-top:0em;}
-.cviz .tasks {width: 85%;margin:auto;}
-.cviz .task {padding-left: 1%;padding-right: 1%;padding-bottom:3em;}
+.cviz .tasks {width: 100%;margin:auto;}
+.cviz .task {padding-left: 1rem;padding-right: 1rem;padding-bottom:3em;}
 .cviz .grow img{transition: all .2s ease-in-out;}
 .cviz .grow img:hover{transform: scale(1.1);}
 .cviz .col-xs-12 img{max-width: 30%;padding-bottom:10px;}
@@ -27,7 +27,6 @@ h2,h3,h4,h5,h6 {
 
 .cviz.intro {
   
-
   background: url("https://joepacal.github.io/kistorm-cancerviz/assets/bg-vizCellGray.svg") no-repeat 100% 0%;
   background-size: 342px, cover;
 
