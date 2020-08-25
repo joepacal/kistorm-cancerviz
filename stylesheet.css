@@ -4,7 +4,7 @@
 .cviz.title{padding-top:0em;margin-top:0em;}
 .cviz.tasks {width: 100%;margin:auto;}
 .cviz.task {padding-left: 1rem;padding-right: 1rem;padding-bottom:3em;}
-.cviz.grow img{transition: all .2s ease-in-out; max-height: 40px; max-width: 40px}
+.cviz.grow img{transition: all .2s ease-in-out; max-height: 56px; max-width: 56px}
 .cviz.grow img:hover{transform: scale(1.1);}
 .cviz.col-xs-12 img{max-width: 30%;padding-bottom:10px;}
 .cviz.welcome-header {max-width: 5em; padding-top: 0.5em;}
