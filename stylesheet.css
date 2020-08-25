@@ -28,8 +28,8 @@ h2,h3,h4,h5,h6 {
 .cviz.intro {
   
 
-  background: url("https://joepacal.github.io/kistorm-cancerviz/assets/bg-bannerCell.png") no-repeat 90% 50%;
-  background-size: 692px, cover;
+  background: url("https://joepacal.github.io/kistorm-cancerviz/assets/bg-vizCellGray.svg") no-repeat 100% 0%;
+  background-size: 342px, cover;
 
   padding: 0rem 1rem 2rem 1rem;
   
