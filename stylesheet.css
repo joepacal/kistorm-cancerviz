@@ -32,7 +32,7 @@ h2,h3,h4,h5,h6 {
   background-size: 692px, cover;
   border-top: solid 1px #EB5C98;
 
-  padding: 1rem 1rem 2rem 1rem;
+  padding: 0rem 1rem 2rem 1rem;
   
 }
 
@@ -40,47 +40,35 @@ h2,h3,h4,h5,h6 {
 .cviz.header {
 
   display: flex;
-  flex-direction: row;
+  flex-flow: row wrap-reverse;
 
   justify-content: space-between;
   align-items: center;
 
-  background-image: url("https://joepacal.github.io/kistorm-cancerviz/assets/bg-bannerCell.png");
-  background-size: 384px, cover;
+  background: url("https://joepacal.github.io/kistorm-cancerviz/assets/bg-bannerCell.png") no-repeat 100% 0%;
+  border-top: solid 1px #EB5C98;
+  background-size: 256px, cover;
 
-  
-  margin: 0rem 0rem 1rem 0rem;
-  padding: 0rem 2rem 0rem 2rem;
+  color: #EB5C98;
 
-  color: #fff;
-
-  height: 156px;
+  padding: 1rem 2rem 1.5rem 1rem;
 
 
 }
 
 .cviz.title {
-
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
   
-
-  height: 100%;
-  margin: 0rem 2rem 0rem 0rem;
+  
+  
 
 }
 
 .cviz.logo {
 
-  width: 64px;
-  height: 40px;
-
-  background-color: #fff;
-  padding: 0.5rem;
-  border-radius: 12px;
-
+  width: 128px;
   flex-grow: none;
+
+
 
 }
 
